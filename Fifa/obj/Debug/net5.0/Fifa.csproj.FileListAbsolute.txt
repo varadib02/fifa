@@ -1,0 +1,16 @@
+H:\Prog\2022-01-13_Fifa\Fifa\Fifa\obj\Debug\net5.0\Fifa.csproj.AssemblyReference.cache
+H:\Prog\2022-01-13_Fifa\Fifa\Fifa\obj\Debug\net5.0\Fifa.GeneratedMSBuildEditorConfig.editorconfig
+H:\Prog\2022-01-13_Fifa\Fifa\Fifa\obj\Debug\net5.0\Fifa.AssemblyInfoInputs.cache
+H:\Prog\2022-01-13_Fifa\Fifa\Fifa\obj\Debug\net5.0\Fifa.AssemblyInfo.cs
+H:\Prog\2022-01-13_Fifa\Fifa\Fifa\obj\Debug\net5.0\Fifa.csproj.CoreCompileInputs.cache
+H:\Prog\2022-01-13_Fifa\Fifa\Fifa\bin\Debug\net5.0\Fifa.exe
+H:\Prog\2022-01-13_Fifa\Fifa\Fifa\bin\Debug\net5.0\Fifa.deps.json
+H:\Prog\2022-01-13_Fifa\Fifa\Fifa\bin\Debug\net5.0\Fifa.runtimeconfig.json
+H:\Prog\2022-01-13_Fifa\Fifa\Fifa\bin\Debug\net5.0\Fifa.runtimeconfig.dev.json
+H:\Prog\2022-01-13_Fifa\Fifa\Fifa\bin\Debug\net5.0\Fifa.dll
+H:\Prog\2022-01-13_Fifa\Fifa\Fifa\bin\Debug\net5.0\ref\Fifa.dll
+H:\Prog\2022-01-13_Fifa\Fifa\Fifa\bin\Debug\net5.0\Fifa.pdb
+H:\Prog\2022-01-13_Fifa\Fifa\Fifa\obj\Debug\net5.0\Fifa.dll
+H:\Prog\2022-01-13_Fifa\Fifa\Fifa\obj\Debug\net5.0\ref\Fifa.dll
+H:\Prog\2022-01-13_Fifa\Fifa\Fifa\obj\Debug\net5.0\Fifa.pdb
+H:\Prog\2022-01-13_Fifa\Fifa\Fifa\obj\Debug\net5.0\Fifa.genruntimeconfig.cache
